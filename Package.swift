@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "JoodSDK",
-            url: "https://github.com/x-arcom/jood-ios-sdk/releases/download/0.1.0/JoodSDK-0.1.0.xcframework.zip",
-            checksum: "7a55b7d2e8dda04d9098d60b58cc4e7e32325822add7564ce6fa6a19e4991472"
+            url: "https://github.com/x-arcom/jood-ios-sdk/releases/download/0.2.0/JoodSDK-0.2.0.xcframework.zip",
+            checksum: "b478fa3fb6e47bbd22f2f33f1f013e99b9d6ac3206b346c97630aeccdf99ec07"
         ),
     ]
 )

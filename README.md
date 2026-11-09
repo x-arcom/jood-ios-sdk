@@ -10,7 +10,7 @@ In Xcode: **File → Add Package Dependencies**, paste this repository's URL, an
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/x-arcom/jood-ios-sdk", from: "0.1.0"),
+    .package(url: "https://github.com/x-arcom/jood-ios-sdk", from: "0.2.0"),
 ]
 ```
 
